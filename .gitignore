@@ -1,0 +1,12 @@
+# Banco de dados local
+*.db
+gestao_toldos.db
+
+# Pastas e arquivos gerados pelo PyInstaller
+build/
+dist/
+*.spec
+
+# Pastas do Python
+__pycache__/
+*.pyc
